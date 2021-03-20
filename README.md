@@ -12,4 +12,4 @@ Project requirements All files will be compiled on Ubuntu 14.04 LTS Programs and
 
 Mandatory tasks Write a function that produces an output with the conversion specifiers c, s and %. Handle the conversion specifiers d, i. Create a man page for your function
 
-[Imgur](https://i.imgur.com/bVqNrBm.jpg)
+[Imgur](https://i.imgur.com/3En5ClC.jpg)
