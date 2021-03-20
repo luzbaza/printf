@@ -11,3 +11,5 @@ Input: _printf("%d", 1000); Output: 1000
 Project requirements All files will be compiled on Ubuntu 14.04 LTS Programs and functions will be compiled with gcc 4.8.4 using the -Wall -Werror -Wextra and -pedantic flags. The code must follow the Betty style Global variables are not allowed Allowed functions and macros: write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_start) va_end (man 3 va_end) va_copy (man 3 va_copy) va_arg (man 3 va_arg)
 
 Mandatory tasks Write a function that produces an output with the conversion specifiers c, s and %. Handle the conversion specifiers d, i. Create a man page for your function
+
+[Imgur](https://i.imgur.com/bVqNrBm.jpg)
