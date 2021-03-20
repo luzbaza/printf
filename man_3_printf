@@ -1,0 +1,37 @@
+_printf" manual page
+ NAME
+printf - prints data according to the specified format.
+ SYNOPSIS
+#include <stdarg.h>
+
+#include <unistd.h>
+
+#include <stdio.h>
+
+#include <stdlib.h>
+
+int _printf(const char *format, ...);
+
+DESCRIPTION
+Printf project done for the Holberton School.
+_printf() receives the format argument as a string and prints to standard output based on the arguments following it. The following are the specifiers that convert those arguments to be printed.
+
+ CONVERSION SPECIFIERS
+The following characters act as specifiers for the conversions to be performed:
+c
+Arguments of type int are converted to type char and printed to standard output.
+s
+Arguments of type const char * are expected to be a pointer to an array of type char. All characters in the array, except the final null byte, are printed to standard output.
+ d,i
+
+
+RETURN VALUE
+On success returns the number of characters to print, excluding the terminating null byte of the strings.
+Returns -1 if NULL or just '%' is passed.
+If NULL is passed as an argument to a string it is printed (null).
+
+STYLE CODE
+Betty style
+
+AUTHOR
+Luz Baza, Sergio Velasquez.
