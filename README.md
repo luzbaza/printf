@@ -1,3 +1,4 @@
+![Untitled - Frame 1 (1)-b0c6d870-8991-11eb-8ea6-7e8b82fd727c](https://user-images.githubusercontent.com/70784906/112067957-f3d13100-8b36-11eb-9979-08aa701e8bd9.jpg)
 It is a custom implementation of the C programming function printf. This project is an application of the C programming skills that Holberton School Cohort 14 students have learned since they started the . Prototype: int _printf(const char *, ...); Examples String
 
 Input: _printf("%string", 'This is a string.'); Output: This is a string. Character
