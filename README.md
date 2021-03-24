@@ -12,5 +12,5 @@ Project requirements All files will be compiled on Ubuntu 14.04 LTS Programs and
 
 Mandatory tasks Write a function that produces an output with the conversion specifiers c, s and %. Handle the conversion specifiers d, i. Create a man page for your function
 
-![Untitled - Frame 1 (1)-b0c6d870-8991-11eb-8ea6-7e8b82fd727c](https://user-images.githubusercontent.com/70784906/112068037-16634a00-8b37-11eb-9cc3-0549e6db9176.jpg)
+![readme](PNG)
 
