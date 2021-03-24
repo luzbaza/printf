@@ -1,4 +1,4 @@
-##Printf
+## Printf
 
 It is a custom implementation of the C programming function printf. This project is an application of the C programming skills that Holberton School Cohort 14 students have learned since they started the . Prototype: int _printf(const char *, ...); Examples String
 
